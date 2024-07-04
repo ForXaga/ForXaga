@@ -12,11 +12,11 @@ Minecraft player
 
 
 ### **Skills**
-<code><img height="20" src="./icons/LogosAdobePremiere.svg"></code>
-<code><img height="20" src="./icons/SkillIconsAftereffects.svg"></code>
-<code><img height="20" src="./icons/DeviconVscode.svg"></code>
-<code><img height="20" src="./icons/LogosFigma.svg"></code>
-<code><img height="20" src="./icons/SimpleIconsAseprite.svg"></code>
+<code><img height="30" src="./icons/LogosAdobePremiere.svg"></code>
+<code><img height="30" src="./icons/SkillIconsAftereffects.svg"></code>
+<code><img height="30" src="./icons/DeviconVscode.svg"></code>
+<code><img height="30" src="./icons/LogosFigma.svg"></code>
+<code><img height="30" src="./icons/SimpleIconsAseprite.svg"></code>
 
 ### **Tags**
 ![](https://img.shields.io/badge/For-Xaga-black)
