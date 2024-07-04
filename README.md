@@ -17,3 +17,16 @@ Minecraft player
 <code><img height="20" src="./icons/DeviconVscode.svg"></code>
 <code><img height="20" src="./icons/LogosFigma.svg"></code>
 <code><img height="20" src="./icons/SimpleIconsAseprite.svg"></code>
+
+### **Tags**
+![](https://img.shields.io/badge/For-Xaga-black)
+![](https://img.shields.io/badge/Git-Hub-white)
+![](https://img.shields.io/badge/VS-Code-aqua)
+![](https://img.shields.io/badge/After-Effects-purple)
+![](https://img.shields.io/badge/Mine-craft-green)
+![](https://img.shields.io/badge/I-Love%20you-red)
+![](https://img.shields.io/badge/China-🇨🇳-red)
+
+
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ForXaga&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
