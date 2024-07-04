@@ -2,7 +2,7 @@
 
 ## Xaga
 Minecraft player
-
+<img align="right" src="./icons/Baked_Potato_JE4_BE2@1x.png" width="150" heiget="150">
 ### **Community**
 
 <a href="https://space.bilibili.com/409605133"><code><img height="30" width="30" src="https://i0.hdslb.com/bfs/static/jinkela/long/images/favicon.ico"></code></a>Bilibili:ForXaga
