@@ -7,13 +7,13 @@
 ![Static Badge](https://img.shields.io/badge/ForXaga-black?style=for-the-badge&logo=bilibili&link=https%3A%2F%2Fspace.bilibili.com%2F409605133)
 
 ### **Tools**
-![Static Badge](https://img.shields.io/badge/deepin-black?style=for-the-badge&logo=deepin)
-![Static Badge](https://img.shields.io/badge/clion-black?style=for-the-badge&logo=clion)
-![Static Badge](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&link=https%3A%2F%2Fwww.figma.com%2F)
+![Static Badge](https://img.shields.io/badge/deepin-black?style=for-the-badge&logo=deepin&link=https%3A%2F%2Fwww.deepin.org)
+![Static Badge](https://img.shields.io/badge/clion-black?style=for-the-badge&logo=clion&link=https%3A%2F%2Fwww.jetbrains.com%2Fclion)
+![Static Badge](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&link=https%3A%2F%2Fwww.figma.com)
 ![Static Badge](https://img.shields.io/badge/Aftere%20Ffects-black?style=for-the-badge&logo=adobeaftereffects)
-![Static Badge](https://img.shields.io/badge/obsstudio-black?style=for-the-badge&logo=obsstudio)
-![Static Badge](https://img.shields.io/badge/obsidian-black?style=for-the-badge&logo=obsidian)
-![Static Badge](https://img.shields.io/badge/aseprite-black?style=for-the-badge&logo=aseprite)
+![Static Badge](https://img.shields.io/badge/obsstudio-black?style=for-the-badge&logo=obsstudio&link=https%3A%2F%2Fobsproject.com)
+![Static Badge](https://img.shields.io/badge/obsidian-black?style=for-the-badge&logo=obsidian&link=https%3A%2F%2Fobsidian.md)
+![Static Badge](https://img.shields.io/badge/aseprite-black?style=for-the-badge&logo=aseprite&link=https%3A%2F%2Fwww.aseprite.org)
 
 ### **Markup Languages**
 ![Static Badge](https://img.shields.io/badge/c%2B%2B-black?style=for-the-badge&logo=cplusplus)
