@@ -16,10 +16,10 @@
 [![Static Badge](https://img.shields.io/badge/aseprite-black?style=for-the-badge&logo=aseprite)](https://www.aseprite.org)
 
 ### **Markup Languages**
-[![Static Badge](https://img.shields.io/badge/c%2B%2B-black?style=for-the-badge&logo=cplusplus)]
-[![Static Badge](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)]
-[![Static Badge](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)]
-[![Static Badge](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)]
-[![Static Badge](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)]
+[![Static Badge](https://img.shields.io/badge/c%2B%2B-black?style=for-the-badge&logo=cplusplus)]()
+[![Static Badge](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)]()
+[![Static Badge](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)]()
+[![Static Badge](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)]()
+[![Static Badge](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)]()
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ForXaga&show_icons=true&theme=tokyonight)]
