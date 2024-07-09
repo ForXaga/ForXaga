@@ -1,4 +1,9 @@
 <img align="right" src="./avatarHead.png" width="100" heiget="100">
+<div align="center">
+
+# `Xaga`
+
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Xaga;Xaga)](https://git.io/typing-svg)
 <img align="right" src="./icons/Baked_Potato_JE4_BE2@1x.png" width="150" heiget="150">
@@ -34,3 +39,4 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ForXaga&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forxaga&layout=compact)
