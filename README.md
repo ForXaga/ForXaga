@@ -1,7 +1,7 @@
 <div align="center">
-<img align="right" src="./avatarHead.png" width="180" heiget="180">
- <img align="right" src="./icons/Baked_Potato_JE4_BE2@1x.png" width="180" heiget="180">
-
+<img align="right" src="./avatarHead.png" width="160" heiget="160">
+ <img align="right" src="./icons/Baked_Potato_JE4_BE2@1x.png" width="160" heiget="160">
+ 
 ```
  ____                    __   __                                   
 /\  _`\                 /\ \ /\ \                                  
@@ -17,6 +17,7 @@
 # `Xaga`
 
 </div>
+
 
 
 
