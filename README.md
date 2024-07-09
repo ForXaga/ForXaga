@@ -1,12 +1,30 @@
-<img align="right" src="./avatarHead.png" width="100" heiget="100">
+
+
+
+
 <div align="center">
 
-# `Xaga`
+  
+```
+ ____                    __   __                                   
+/\  _`\                 /\ \ /\ \                                  
+\ \ \L\_\  ___    _ __  \ `\`\/'/'      __        __        __     
+ \ \  _\/ / __`\ /\`'__\ `\/ > <      /'__`\    /'_ `\    /'__`\   
+  \ \ \/ /\ \L\ \\ \ \/     \/'/\`\  /\ \L\.\_ /\ \L\ \  /\ \L\.\_ 
+   \ \_\ \ \____/ \ \_\     /\_\\ \_\\ \__/.\_\\ \____ \ \ \__/.\_\
+    \/_/  \/___/   \/_/     \/_/ \/_/ \/__/\/_/ \/___L\ \ \/__/\/_/
+                                                  /\____/          
+                                                  \_/__/           
+```
 
+# `Xaga`
+<img align="right" src="./avatarHead.png" width="200" heiget="200">
+  <img align="right" src="./icons/Baked_Potato_JE4_BE2@1x.png" width="200" heiget="200">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Xaga;Xaga)](https://git.io/typing-svg)
-<img align="right" src="./icons/Baked_Potato_JE4_BE2@1x.png" width="150" heiget="150">
+
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Xaga;Xaga)
 
 ### **Community**
 ![Static Badge](https://img.shields.io/badge/ForXaga-black?style=for-the-badge&logo=bilibili&link=https%3A%2F%2Fspace.bilibili.com%2F409605133)
