@@ -1,4 +1,6 @@
 <div align="center">
+<img align="right" src="./avatarHead.png" width="180" heiget="180">
+ <img align="right" src="./icons/Baked_Potato_JE4_BE2@1x.png" width="180" heiget="180">
 
 ```
  ____                    __   __                                   
@@ -13,8 +15,7 @@
 ```
 
 # `Xaga`
-<img align="right" src="./avatarHead.png" width="200" heiget="200">
-  <img align="right" src="./icons/Baked_Potato_JE4_BE2@1x.png" width="200" heiget="200">
+
 </div>
 
 
