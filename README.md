@@ -1,6 +1,6 @@
 <div align="center">
-<img align="right" src="./avatarHead.png" width="160" heiget="160">
- <img align="right" src="./icons/Baked_Potato_JE4_BE2@1x.png" width="160" heiget="160">
+<img align="right" src="./avatarHead.png" heiget="150">
+ <img align="right" src="./icons/Baked_Potato_JE4_BE2@1x.png" heiget="150">
  
 ```
  ____                    __   __                                   
