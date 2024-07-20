@@ -31,7 +31,7 @@
 ![Static Badge](https://img.shields.io/badge/shell-black?style=for-the-badge&logo=gnubash&logoSize=auto)
 
 ### **Work Station**
-[![deepin](https://img.shields.io/badge/deepin-black?style=for-the-badge&logo=deepin)](https://www.deepin.org)
+[![windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows)](https://microsoft.com)
 ![Static Badge](https://img.shields.io/badge/-black?style=for-the-badge&logo=amd&logoSize=auto)
 ![RAM](https://img.shields.io/badge/16GB-black?style=for-the-badge&label=RAM&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/512GB-black?style=for-the-badge&label=SSD&labelColor=white)
