@@ -45,5 +45,5 @@
 [![Aseprite](https://img.shields.io/badge/aseprite-black?style=for-the-badge&logo=aseprite)](https://www.aseprite.org)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ForXaga&show_icons=true&theme=tokyonight)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icexaga&layout=compact)-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iceXaga&show_icons=true&theme=tokyonight)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icexaga&layout=compact)
