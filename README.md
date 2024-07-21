@@ -13,15 +13,7 @@
                                                       /\____/          
                                                       \_/__/           
 ```
-
-# `Xaga`
-
 </div>
-
-
-
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Xaga;Xaga)
 
 ### **Community**
 ![Static Badge](https://img.shields.io/badge/IceXaga-black?style=for-the-badge&logo=bilibili&link=https%3A%2F%2Fspace.bilibili.com%2F409605133)
