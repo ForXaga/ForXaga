@@ -46,4 +46,4 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ForXaga&show_icons=true&theme=tokyonight)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forxaga&layout=compact)-->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icexaga&layout=compact)-->
