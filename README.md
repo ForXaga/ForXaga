@@ -30,14 +30,11 @@
 
 
 ### **Markup Languages**
-![Static Badge](https://img.shields.io/badge/c%2B%2B-black?style=for-the-badge&logo=cplusplus)
 ![Static Badge](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)
-![Static Badge](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)
-![Static Badge](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![Static Badge](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
 
 ### **Tools**
-[![CLion](https://img.shields.io/badge/clion-black?style=for-the-badge&logo=clion)](https://www.jetbrains.com/clion)
+![IDEA](https://img.shields.io/badge/idea-black?style=for-the-badge&logo=intellijidea&logoColor=white&link=https%3A%2F%2Fwww.jetbrains.com%2Fidea%2F)
 [![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)](https://www.figma.com)
 [![AfterEffects](https://img.shields.io/badge/After%20Effects-black?style=for-the-badge&logo=adobeaftereffects)](https://)
 [![OBS](https://img.shields.io/badge/obsstudio-black?style=for-the-badge&logo=obsstudio)](https://https://obsproject.com/)
