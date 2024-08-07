@@ -1,5 +1,4 @@
 <div align="center">
-<img align="right" src="./avatarHead.png" width="140" heiget="140">
  <img align="right" src="./icons/Baked_Potato_JE4_BE2@1x.png" width="140" heiget="140">
  
 ```
